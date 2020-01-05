@@ -17,7 +17,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity
+{
 
     private static final int DETAILS_REQUEST = 100;
     private static final int DETAILS_RESULT = 200;
