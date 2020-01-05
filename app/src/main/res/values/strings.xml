@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <string name="word">Word</string>
+    <string name="word_description">Editeur de texte</string>
+    <string name="excel">Excel</string>
+    <string name="excel_description">Tableur</string>
+    <string name="powerpoint">PowerPoint</string>
+    <string name="powerpoint_description">Logiciel de présentation</string>
+    <string name="outlook">Outlook</string>
+    <string name="outlook_description">Client de courrier électronique</string>
+
+
+</resources>
